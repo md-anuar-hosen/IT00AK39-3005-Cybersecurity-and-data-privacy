@@ -7,3 +7,4 @@
 | 3.11.25 | 2h |  Module 2: Attacks, Concepts and Techniques | Completed  Module 2 and  Quiz | 
 | 4.11.25 | 3h |  Module 3: Protecting your Data and Privacy | Completed  Module 3 and  Quiz | 
 | 4.11.25 | 3.5h |  Module 4: Protecting the organization | Completed  Module 4 and  Quiz | 
+| 5.11.25 | 1h |  Module 5: Will Your Future Be in Cybersecurity?  | Completed  Module 5, Quiz and final exam | 
