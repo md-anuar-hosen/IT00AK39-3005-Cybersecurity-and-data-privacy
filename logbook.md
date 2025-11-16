@@ -10,4 +10,6 @@
 | 5.11.25 | 1h |  Module 5: Will Your Future Be in Cybersecurity?  | Completed  Module 5, Quiz and final exam | 
 | 11.11.25 | 2h |   Watched recorded 2nd lecture | Understood  about portswigger environment |
 | 11.11.25 | 4h |  SQL Injection |  Lab:SQL injection vulnerability in WHERE clause allowing retrieval of hidden data and SQL injection vulnerability allowing login bypass done |
+| 12.11.25 | 2.5h |   Authentication |  Lab: Username enumeration via different responses done |
+| 12.11.25 | 3h |    Access control vulnerabilities |  Lab: Unprotected admin functionality done |
  
