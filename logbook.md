@@ -18,7 +18,7 @@
  | 14.11.25 | 3h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
   | 15.11.25 | 2.5h | Booking system phase 1 | Installed Docker, Started app stack  |
    | 16.11.25 | 5h | Booking system phase 1 | Performed ZAP penetration testing  |
-    | 17.11.25 | 1h | Booking system phase 1 |  Generated ZAP report,filled template |
+   | 17.11.25 | 1h | Booking system phase 1 |  Generated ZAP report,filled template  |
  
   
 
