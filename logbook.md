@@ -11,5 +11,6 @@
 | 11.11.25 | 2h |   Watched recorded 2nd lecture | Understood  about portswigger environment |
 | 11.11.25 | 4h |  SQL Injection |  Lab:SQL injection vulnerability in WHERE clause allowing retrieval of hidden data and SQL injection vulnerability allowing login bypass done |
 | 12.11.25 | 2.5h |   Authentication |  Lab: Username enumeration via different responses done |
-| 12.11.25 | 3h |    Access control vulnerabilities |  Lab: Unprotected admin functionality done |
+| 12.11.25 | 3h |    Access control vulnerabilities  |  Completed 1 lab:  Unprotected admin functionality done |
+| 13.11.25 | 6h |    Access control vulnerabilities |  Completed 4 lab: “Unprotected admin functionality with unpredictable URL” ,“User role controlled by request parameter”, “User role can be modified in user profile” ,“User ID controlled by request parameter” |
  
