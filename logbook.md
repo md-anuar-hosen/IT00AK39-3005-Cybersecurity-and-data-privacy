@@ -10,12 +10,12 @@
 | 5.11.25 | 1h |  Module 5: Will Your Future Be in Cybersecurity?  | Completed  Module 5, Quiz and final exam | 
 | 11.11.25 | 2h |   Watched recorded 2nd lecture | Understood  about portswigger environment |
 | 11.11.25 | 4h |  SQL Injection |  Completed 2 lab:   SQL injection vulnerability in WHERE clause allowing retrieval of hidden data and SQL injection vulnerability allowing login bypass done |
-| 12.11.25 | 3.5h |   Authentication |   Completed 2 lab:  Username enumeration via different responses,  Password reset broken logic |
-| 12.11.25 | 3h |    Access control vulnerabilities  |  Completed 1 lab:  Unprotected admin functionality |
+| 12.11.25 | 4.5h |   Authentication |   Completed 3 lab:  Username enumeration via different responses,  Password reset broken logic , 2FA simple bypass|
+| 12.11.25 | 2h |    Access control vulnerabilities  |  Completed 1 lab:  Unprotected admin functionality |
 | 13.11.25 | 6h |    Access control vulnerabilities |  Completed 5 lab: “Unprotected admin functionality with unpredictable URL” ,“User role controlled by request parameter”, “User role can be modified in user profile” ,“User ID controlled by request parameter”,“User ID controlled by request parameter, with unpredictable user IDs.” |
  | 13.11.25 | 2h |   Watched recorded 3rd lecture | Learned the fundamentals of penetration testing, including testing phases  |
   | 14.11.25 | 3h | Booking system phase 1 | Installed Kali VM, configured environment  |
- | 14.11.25 | 3h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
+ | 14.11.25 | 2h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
   | 15.11.25 | 2.5h | Booking system phase 1 | Installed Docker, Started app stack  |
    | 16.11.25 | 5h | Booking system phase 1 | Performed ZAP penetration testing  |
    | 17.11.25 | 1h | Booking system phase 1 |  Generated ZAP report,filled template  |
