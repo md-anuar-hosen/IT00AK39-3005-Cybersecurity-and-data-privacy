@@ -16,9 +16,11 @@
  | 13.11.25 | 2h |   Watched recorded 3rd lecture | Learned the fundamentals of penetration testing, including testing phases  |
   | 14.11.25 | 3h | Booking system phase 1 | Installed Kali VM, configured environment  |
  | 14.11.25 | 2h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
-  | 15.11.25 | 2.5h | Booking system phase 1 | Installed Docker, Started app stack  |
-   | 16.11.25 | 5h | Booking system phase 1 | Performed ZAP penetration testing  |
-   | 17.11.25 | 1h | Booking system phase 1 |  Generated ZAP report,filled template  |
+  | 15.11.25 | 2.5h | Booking system phase 1 Part 1 | Installed Docker, Started app stack  |
+   | 16.11.25 | 5h | Booking system phase 1 Part 1 | Performed ZAP penetration testing  |
+   | 17.11.25 | 1h | Booking system phase 1  Part 1|  Generated ZAP report,filled template  |
+    | 22.11.25 | 2h |  BookingSystem Phase 1 Part 2 |  Started web app stack, Generated ZAP report, uploaded to repo |
+    
  
   
 
