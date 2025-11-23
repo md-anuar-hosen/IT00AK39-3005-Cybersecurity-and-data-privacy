@@ -19,8 +19,9 @@
   | 15.11.25 | 2.5h | Booking system phase 1 Part 1 | Installed Docker, Started app stack  |
    | 16.11.25 | 5h | Booking system phase 1 Part 1 | Performed ZAP penetration testing  |
    | 17.11.25 | 1h | Booking system phase 1  Part 1|  Generated ZAP report,filled template  |
+   | 21.11.25 | 2h |   Watched recorded lecture  Intro to the booking system phase 1 -> part 2    | Understood Intro to the booking system phase 1 -> part 2   | 
    | 22.11.25 | 2h |  BookingSystem Phase 1 Part 2 |  Started web app stack, Generated ZAP report, uploaded to repo |
-    
+
  
   
 
