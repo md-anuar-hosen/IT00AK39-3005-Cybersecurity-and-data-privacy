@@ -20,9 +20,12 @@
    | 16.11.25 | 5h | Booking system phase 1 Part 1 | Performed ZAP penetration testing  |
    | 17.11.25 | 1h | Booking system phase 1  Part 1|  Generated ZAP report,filled template  |
    | 21.11.25 | 2h |   Watched recorded lecture  Intro to the booking system phase 1 -> part 2    | Understood Intro to the booking system phase 1 -> part 2   | 
-  | 22.11.25 | 2h |  BookingSystem Phase 1 Part 2 |  Started web app stack, Generated ZAP report, uploaded to repo |
+  | 22.11.25 | 2h |  Booking System Phase 1 Part 2 |  Started web app stack, Generated ZAP report, uploaded to repo |
+  | 25.11.25 | 2h |   recorded lecture done |   Understood booking system phase 2: password cracking and intro to authentication  |
+| 26.11.2025 | 1 | Booking System Phase 2 | started web app stack, Generated ZAP report, uploaded to repo |
+| 27.11.2025 | 5 | Booking System Phase 2 | password cracking report  |
+| 28.11.2025 | 1 | Booking System Phase 2 | password cracking report done  |
 
- 
   
 
  
