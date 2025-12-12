@@ -28,7 +28,7 @@
 | 3.12.2025 | 2h |  Cross-Site Scripting (XSS)  |   Completed 5 labs  |
   | 10.12.2025 | 4h |   Booking System Phase 3  | Ran OWASP ZAP security scan (Round 4) and reviewed initial results  |
 | 11.12.2025 | 4h | Booking System Phase 3  |  Analyzed ZAP report findings and verified authentication tests  |  
- | 11.12.2025 | 1h | Booking System Phase 3 |   Finalized documentation and submitted auth_test_report.md with ZAP report (Round 4)  |  
+ | 12.12.2025 | 1h | Booking System Phase 3 |   Finalized documentation and submitted auth_test_report.md with ZAP report (Round 4)  |  
  
 
  
