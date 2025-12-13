@@ -14,21 +14,23 @@
 | 12.11.25 | 2h |    Access control vulnerabilities  |  Completed 1 lab:  Unprotected admin functionality |
 | 13.11.25 | 6h |    Access control vulnerabilities |  Completed 5 lab: “Unprotected admin functionality with unpredictable URL” ,“User role controlled by request parameter”, “User role can be modified in user profile” ,“User ID controlled by request parameter”,“User ID controlled by request parameter, with unpredictable user IDs.” |
  | 13.11.25 | 2h |   Watched recorded 3rd lecture | Learned the fundamentals of penetration testing, including testing phases  |
-  | 14.11.25 | 3h | Booking system phase 1 | Installed Kali VM, configured environment  |
- | 14.11.25 | 2h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
+  | 14.11.25 | 4h | Booking system phase 1 | Installed Kali VM, configured environment  |
+ | 14.11.25 | 2.5h |    Access control vulnerabilities  |  Completed 2 lab: “User ID controlled by request parameter with data leakage in redirect” ,“User ID controlled by request parameter with password disclosure.”   |
   | 15.11.25 | 2.5h | Booking system phase 1 Part 1 | Installed Docker, Started app stack  |
    | 16.11.25 | 5h | Booking system phase 1 Part 1 | Performed ZAP penetration testing  |
-   | 17.11.25 | 1h | Booking system phase 1  Part 1|  Generated ZAP report,filled template  |
+   | 17.11.25 | 1.5h | Booking system phase 1  Part 1|  Generated ZAP report,filled template  |
    | 21.11.25 | 2h |   Watched recorded lecture  Intro to the booking system phase 1 -> part 2    | Understood Intro to the booking system phase 1 -> part 2   | 
   | 22.11.25 | 2h |  Booking System Phase 1 Part 2 |  Started app stack & generated ZAP report |
   | 25.11.25 | 2h |   recorded lecture  | Understood Phase 2: password cracking     |
 | 26.11.2025 | 3h | Booking System Phase 2 |  Started app & uploaded ZAP report |
 | 27.11.2025 | 4.5h | Booking System Phase 2 | password cracking report  |
 | 28.11.2025 | 2h | Booking System Phase 2 |  Password cracking report finished  |
-| 3.12.2025 | 2h |  Cross-Site Scripting (XSS)  |   Completed 5 labs  |
-  | 10.12.2025 | 4h |   Booking System Phase 3  | Ran OWASP ZAP security scan (Round 4) and reviewed initial results  |
+| 3.12.2025 | 3h |  Cross-Site Scripting (XSS)  |   Completed 5 labs  |
+  | 10.12.2025 | 5h |   Booking System Phase 3  | Ran OWASP ZAP security scan (Round 4) and reviewed initial results  |
 | 11.12.2025 | 4h | Booking System Phase 3  |  Analyzed ZAP report findings and verified authentication tests  |  
  | 12.12.2025 | 1h | Booking System Phase 3 |   Finalized documentation and submitted auth_test_report.md with ZAP report (Round 4)  |  
+ | 12.12.2025 | 4.5h | Booking System Phase 4 | Created GDPR_checklist.md and cookiepolicy.md  |  
+ | 13.12.2025 | 2h | Booking System Phase 4 | Created privacypolicy.md and termsofservice.md and uploaded all Phase 4 documents |
  
 
  
